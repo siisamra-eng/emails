@@ -26,5 +26,8 @@ pnpm-debug.log*
 # vercel
 .vercel
 
+# Klaviyo performance exports and source copy are private account data.
+/private-data/
+
 # typescript
 *.tsbuildinfo
